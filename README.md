@@ -10,7 +10,7 @@ Download([pdf](manual/manual.pdf?raw=true))
 
 ## Capture
 
-|                                                 |                                                      ||
+|                                                 |                                                     
 | :---------------------------------------------: | 
 |      ![Images](upload/images.jpg?raw=true)      |        
 |        ![SDTW](upload/SDTW.jpg?raw=true)        |    
