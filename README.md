@@ -4,9 +4,7 @@ Computer Vision assignment
 
 ## Manual
 
-Download([docx](manual/manual.docx?raw=true))
-
-Download([pdf](manual/manual.pdf?raw=true))
+Link([here](https://github.com/ryulurala/Image_processing/blob/main/manual/manual.pdf)
 
 ## Capture
 
