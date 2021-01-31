@@ -6,10 +6,14 @@ Computer Vision assignment
 
 Link([here](https://github.com/ryulurala/Image_processing/blob/main/manual/manual.pdf))
 
-## Capture
+## Preview
 
-|                                                 |                                                     
-| :---------------------------------------------: | 
-|      ![Images](upload/images.jpg?raw=true)      |        
-|        ![SDTW](upload/SDTW.jpg?raw=true)        |    
-| ![recognition](upload/recognition.jpg?raw=true) |
+|            Training            |             Test              |
+| :----------------------------: | :---------------------------: |
+| ![Images](upload/training.gif) | ![Images](upload/testing.gif) |
+
+|                Capture                 |
+| :------------------------------------: |
+|      ![Images](upload/images.jpg)      |
+|        ![SDTW](upload/SDTW.jpg)        |
+| ![recognition](upload/recognition.jpg) |
